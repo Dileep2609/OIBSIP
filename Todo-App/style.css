@@ -1,0 +1,195 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  transition: 0.3s;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.todo-app {
+  width: 100%;
+  max-width: 550px;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  padding: 30px;
+  border-radius: 25px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.header h1 {
+  font-size: 32px;
+}
+
+#themeBtn {
+  padding: 10px 14px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.input-section {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input-section input {
+  flex: 1;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  outline: none;
+}
+
+.input-section button {
+  padding: 14px 20px;
+  border: none;
+  border-radius: 12px;
+  background: #38bdf8;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.input-section button:hover {
+  transform: scale(1.05);
+}
+
+.search-section input {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  outline: none;
+}
+
+.filter-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.filter-btn {
+  flex: 1;
+  margin: 0 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background: #334155;
+  color: white;
+  cursor: pointer;
+}
+
+.filter-btn.active {
+  background: #38bdf8;
+}
+
+#taskList {
+  list-style: none;
+}
+
+.task {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  animation: fadeIn 0.3s ease;
+}
+
+.task.completed span {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.task-buttons button {
+  margin-left: 8px;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.complete-btn {
+  background: #22c55e;
+  color: white;
+}
+
+.edit-btn {
+  background: #facc15;
+}
+
+.delete-btn {
+  background: #ef4444;
+  color: white;
+}
+
+.footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#clearBtn {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 10px;
+  background: #ef4444;
+  color: white;
+  cursor: pointer;
+}
+
+.light-mode {
+  background: #f1f5f9;
+  color: black;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 600px) {
+  .todo-app {
+    padding: 20px;
+  }
+
+  .filter-section {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
