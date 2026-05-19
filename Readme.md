@@ -86,32 +86,35 @@ A modern authentication system using Local Storage.
 
 # 📂 Repository Structure
 
+
+```text
 OIBSIP/
 │
 ├── Calculator/
-│ ├── index.html
-│ ├── style.css
-│ ├── script.js
-│ └── README.md
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── README.md
 │
 ├── Tribute-Page/
-│ ├── index.html
-│ ├── style.css
-│ └── README.md
+│   ├── index.html
+│   ├── style.css
+│   └── README.md
 │
 ├── Todo-App/
-│ ├── index.html
-│ ├── style.css
-│ ├── script.js
-│ └── README.md
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── README.md
 │
 ├── Login-Authentication/
-│ ├── index.html
-│ ├── style.css
-│ ├── script.js
-│ └── README.md
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── README.md
 │
 └── README.md
+```
 
 ---
 

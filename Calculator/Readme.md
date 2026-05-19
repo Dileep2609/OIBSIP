@@ -47,6 +47,7 @@ The calculator supports basic arithmetic operations along with scientific functi
 
 ## 📁 Folder Structure
 
+```text
 OIBSIP/
 │
 └── Calculator/
@@ -55,6 +56,8 @@ OIBSIP/
 ├── style.css
 ├── script.js
 └── click.wav
+
+```
 
 ## ▶️ How to Run
 

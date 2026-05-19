@@ -34,12 +34,15 @@ This project was developed as part of the Oasis Infobyte Web Development and Des
 
 # 📂 Project Structure
 
+```text
+
 Login-Authentication/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 ---
 
