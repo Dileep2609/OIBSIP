@@ -7,6 +7,7 @@ This project was created as part of the Oasis Infobyte Web Development and Desig
 
 # 🚀 Features
 
+```text
 ✅ Add Tasks
 ✅ Edit Tasks
 ✅ Delete Tasks
@@ -20,6 +21,8 @@ This project was created as part of the Oasis Infobyte Web Development and Desig
 ✅ Task Counter
 ✅ Clear All Tasks Button
 ✅ Mobile Friendly UI
+
+```
 
 ---
 

@@ -7,19 +7,23 @@ This project was developed as part of the Oasis Infobyte Web Development and Des
 
 # 🚀 Features
 
-✅ Responsive Design  
-✅ Modern User Interface  
-✅ Smooth Scrolling Navigation  
-✅ Hero Section  
-✅ Detailed Biography Section  
-✅ Timeline of Life Journey  
-✅ Awards & Honors Section  
-✅ Popular Books Section  
-✅ Inspirational Quotes  
-✅ Image Gallery  
-✅ Hover Animations  
-✅ Scroll To Top Button  
+```text
+
+✅ Responsive Design
+✅ Modern User Interface
+✅ Smooth Scrolling Navigation
+✅ Hero Section
+✅ Detailed Biography Section
+✅ Timeline of Life Journey
+✅ Awards & Honors Section
+✅ Popular Books Section
+✅ Inspirational Quotes
+✅ Image Gallery
+✅ Hover Animations
+✅ Scroll To Top Button
 ✅ Mobile Friendly Layout
+
+```
 
 ---
 

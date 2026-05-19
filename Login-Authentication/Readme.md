@@ -7,6 +7,8 @@ This project was developed as part of the Oasis Infobyte Web Development and Des
 
 # 🚀 Features
 
+```text
+
 ✅ User Registration
 ✅ User Login
 ✅ Logout Functionality
@@ -21,6 +23,8 @@ This project was developed as part of the Oasis Infobyte Web Development and Des
 ✅ Mobile Friendly Design
 ✅ Smooth Hover Effects
 ✅ Gradient Background
+
+```
 
 ---
 
