@@ -86,34 +86,32 @@ A modern authentication system using Local Storage.
 
 # 📂 Repository Structure
 
-```text
 OIBSIP/
 │
 ├── Calculator/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── README.md
+│ ├── index.html
+│ ├── style.css
+│ ├── script.js
+│ └── README.md
 │
 ├── Tribute-Page/
-│   ├── index.html
-│   ├── style.css
-│   └── README.md
+│ ├── index.html
+│ ├── style.css
+│ └── README.md
 │
 ├── Todo-App/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── README.md
+│ ├── index.html
+│ ├── style.css
+│ ├── script.js
+│ └── README.md
 │
 ├── Login-Authentication/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── README.md
+│ ├── index.html
+│ ├── style.css
+│ ├── script.js
+│ └── README.md
 │
 └── README.md
-```
 
 ---
 
@@ -136,31 +134,21 @@ The objective of this internship is to enhance practical frontend web developmen
 
 # 🔥 Live Demo Links
 
-Add your deployed GitHub Pages links here:
-
 ## Calculator
 
-```text
-https://yourusername.github.io/OIBSIP/Calculator/
-```
+https://dileep2609.github.io/OIBSIP/Calculator/
 
 ## Tribute Page
 
-```text
-https://yourusername.github.io/OIBSIP/Tribute-Page/
-```
+https://dileep2609.github.io/OIBSIP/Tribute-Page/
 
 ## Todo App
 
-```text
-https://yourusername.github.io/OIBSIP/Todo-App/
-```
+https://dileep2609.github.io/OIBSIP/Todo-App/
 
 ## Login Authentication
 
-```text
-https://yourusername.github.io/OIBSIP/Login-Authentication/
-```
+https://dileep2609.github.io/OIBSIP/Login-Authentication/
 
 ---
 

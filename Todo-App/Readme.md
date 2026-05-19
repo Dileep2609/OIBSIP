@@ -84,11 +84,7 @@ The application is fully responsive and works smoothly on:
 
 # 🔥 Live Demo
 
-Add your GitHub Pages deployment link here:
-
-```text
-https://yourusername.github.io/OIBSIP/Todo-App/
-```
+https://dileep2609.github.io/OIBSIP/Todo-App/
 
 ---
 

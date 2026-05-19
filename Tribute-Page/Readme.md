@@ -77,11 +77,7 @@ The objective of this project is to improve frontend web development skills by c
 
 # 🔥 Live Demo
 
-Add your GitHub Pages deployment link here:
-
-```text
-https://yourusername.github.io/OIBSIP/Tribute-Page/
-```
+https://dileep2609.github.io/OIBSIP/Tribute-Page/
 
 ---
 
@@ -93,7 +89,7 @@ Dileep Guguloth
 
 # 🏢 Internship
 
-Oasis Infobyte  
+Oasis Infobyte
 Web Development and Designing Internship
 
 ---

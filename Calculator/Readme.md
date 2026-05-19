@@ -64,11 +64,7 @@ OIBSIP/
 
 ## 🌐 Live Demo
 
-Add your deployed website link here.
-
-## 📹 Demo Video
-
-Add your LinkedIn or video link here.
+https://dileep2609.github.io/OIBSIP/Calculator/
 
 ## 👨‍💻 Author
 

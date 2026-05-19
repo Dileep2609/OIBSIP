@@ -34,14 +34,12 @@ This project was developed as part of the Oasis Infobyte Web Development and Des
 
 # 📂 Project Structure
 
-```text
 Login-Authentication/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
 
 ---
 
@@ -85,11 +83,7 @@ The application is fully responsive and optimized for:
 
 # 🔥 Live Demo
 
-Add your GitHub Pages deployment link here:
-
-```text
-https://yourusername.github.io/OIBSIP/Login-Authentication/
-```
+https://dileep2609.github.io/OIBSIP/Login-Authentication/
 
 ---
 
