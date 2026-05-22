@@ -86,7 +86,6 @@ A modern authentication system using Local Storage.
 
 # 📂 Repository Structure
 
-
 ```text
 OIBSIP/
 │
@@ -152,6 +151,26 @@ https://dileep2609.github.io/OIBSIP/Todo-App/
 ## Login Authentication
 
 https://dileep2609.github.io/OIBSIP/Login-Authentication/
+
+---
+
+# 🎥 Project Demo Videos
+
+## 🔢 Scientific Calculator
+
+[Watch Demo Video](https://youtu.be/UgqAHq44_Bw)
+
+## 🏆 Tribute Page
+
+[Watch Demo Video](https://youtu.be/vE_X5kBKS30)
+
+## ✅ Todo App
+
+[Watch Demo Video](https://youtu.be/XhFIQcksEKk)
+
+## 🔐 Login Authentication
+
+[Watch Demo Video](https://youtu.be/1I35g2HJOMY)
 
 ---
 
