@@ -1,30 +1,44 @@
-# Login Authentication System
+# OIBSIP - Login Authentication System
 
-A modern and responsive Login Authentication System built using HTML, CSS, and JavaScript.
-This project was developed as part of the Oasis Infobyte Web Development and Designing Internship.
+This repository contains the Level 2 Task project completed as part of the Oasis Infobyte Web Development and Designing Internship.
 
 ---
 
-# 🚀 Features
+# 🚀 Project Name
 
-```text
+Login Authentication System
 
-✅ User Registration
-✅ User Login
-✅ Logout Functionality
-✅ Show / Hide Password
-✅ Local Storage Authentication
-✅ Responsive Design
-✅ Dark / Light Mode
-✅ Modern Glassmorphism UI
-✅ Animated Interface
-✅ Form Validation
-✅ Success & Error Messages
-✅ Mobile Friendly Design
-✅ Smooth Hover Effects
-✅ Gradient Background
+---
 
-```
+# 📌 Description
+
+A modern and responsive Login Authentication System built using HTML, CSS, and JavaScript.
+
+This project allows users to register, login, logout, and manage authentication using Local Storage. The application also includes dark/light mode support, password visibility toggle, responsive design, and modern UI animations.
+
+---
+
+# ✨ Features
+
+## 🔐 Authentication Features
+
+- User Registration
+- User Login
+- Logout Functionality
+- Local Storage Authentication
+- Password Visibility Toggle
+- Form Validation
+
+## 🎨 UI Features
+
+- Responsive Design
+- Dark / Light Mode
+- Modern Glassmorphism UI
+- Animated Interface
+- Smooth Hover Effects
+- Success & Error Messages
+- Mobile Friendly Design
+- Gradient Background
 
 ---
 
@@ -36,16 +50,36 @@ This project was developed as part of the Oasis Infobyte Web Development and Des
 
 ---
 
+# 📸 Screenshots
+
+## 🌙 Login Page - Dark Mode
+
+<img width="100%" alt="Login Page" src="images/login-dark.png">
+
+## 📝 Registration Page
+
+<img width="100%" alt="Register Page" src="images/register-page.png">
+
+## ✅ Successful Login
+
+<img width="100%" alt="Login Success" src="images/login-success.png">
+
+---
+
 # 📂 Project Structure
 
 ```text
-
 Login-Authentication/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+├── README.md
+│
+└── images/
+    ├── login-dark.png
+    ├── register-page.png
+    └── login-success.png
 ```
 
 ---
@@ -94,9 +128,17 @@ https://dileep2609.github.io/OIBSIP/Login-Authentication/
 
 ---
 
-# 🎥 Project Demo Videos
+# 🎥 Project Demo Video
 
 [Watch Demo Video](https://youtu.be/1I35g2HJOMY)
+
+---
+
+# 💡 Internship Task Details
+
+- Internship Domain: Web Development and Designing
+- Internship Provider: Oasis Infobyte
+- Level: Level 2
 
 ---
 
@@ -108,8 +150,7 @@ Dileep Guguloth
 
 # 🏢 Internship
 
-Oasis Infobyte
-Web Development and Designing Internship
+Oasis Infobyte - Web Development and Designing Internship
 
 ---
 
