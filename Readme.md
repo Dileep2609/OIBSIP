@@ -174,6 +174,14 @@ https://dileep2609.github.io/OIBSIP/Login-Authentication/
 
 ---
 
+# 📝 Internship Blog
+
+## My Oasis Infobyte Internship Experience (OIB-SIP)
+
+[Read Blog on Medium](https://medium.com/@dileepguguloth2005/my-oasis-infobyte-internship-experience-oib-sip-e71374d6e1c1)
+
+---
+
 # 👨‍💻 Author
 
 Dileep Guguloth
