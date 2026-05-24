@@ -135,7 +135,7 @@ The webpage is fully responsive and optimized for:
 
 # 🔥 Live Demo
 
-https://dileep2609.github.io/OIBSIP/Tribute-Page/
+[Watch Live Demo](https://dileep2609.github.io/OIBSIP/Dileep_Task2_TributePage/)
 
 ---
 

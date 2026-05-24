@@ -142,7 +142,7 @@ The application is fully responsive and works smoothly on:
 
 # 🔥 Live Demo
 
-https://dileep2609.github.io/OIBSIP/Todo-App/
+[Watch Live Demo](https://dileep2609.github.io/OIBSIP/Dileep_Task3_TodoApp/)
 
 ---
 

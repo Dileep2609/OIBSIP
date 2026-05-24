@@ -104,7 +104,7 @@ OIBSIP/
 
 # 🌐 Live Demo
 
-https://dileep2609.github.io/OIBSIP/Calculator/
+[Watch Live Demo](https://dileep2609.github.io/OIBSIP/Dileep_task1_calculator/)
 
 ---
 

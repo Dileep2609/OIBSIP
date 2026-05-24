@@ -138,21 +138,19 @@ The objective of this internship is to enhance practical frontend web developmen
 
 ## Calculator
 
-https://dileep2609.github.io/OIBSIP/Calculator/
+[Watch Live Demo](https://dileep2609.github.io/OIBSIP/Dileep_task1_calculator/)
 
 ## Tribute Page
 
-https://dileep2609.github.io/OIBSIP/Tribute-Page/
+[Watch Live Demo](https://dileep2609.github.io/OIBSIP/Dileep_Task2_TributePage/)
 
 ## Todo App
 
-https://dileep2609.github.io/OIBSIP/Todo-App/
+[Watch Live Demo](https://dileep2609.github.io/OIBSIP/Dileep_Task3_TodoApp/)
 
 ## Login Authentication
 
-https://dileep2609.github.io/OIBSIP/Login-Authentication/
-
----
+## [Watch Live Demo](https://dileep2609.github.io/OIBSIP/Dileep_Task4_LoginAuthentication/)
 
 # 🎥 Project Demo Videos
 
@@ -190,7 +188,7 @@ Dileep Guguloth
 
 # 🏢 Internship
 
-Oasis Infobyte  
+Oasis Infobyte
 Web Development and Designing Internship
 
 ---
