@@ -150,7 +150,7 @@ The objective of this internship is to enhance practical frontend web developmen
 
 ## Login Authentication
 
-## [Watch Live Demo](https://dileep2609.github.io/OIBSIP/Dileep_Task4_LoginAuthentication/)
+[Watch Live Demo](https://dileep2609.github.io/OIBSIP/Dileep_Task4_LoginAuthentication/)
 
 # 🎥 Project Demo Videos
 
